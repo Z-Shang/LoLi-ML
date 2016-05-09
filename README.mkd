@@ -1,0 +1,6 @@
+# LoLi-ML
+
+My first OCaml project
+
+# License
+GPLv3+
